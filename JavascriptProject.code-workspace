@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "JavascriptProject",
+			"path": "."
+		},
+		{
+			"name": "Randompasswordgenerator",
+			"path": "../../Randompasswordgenerator"
+		}
+	],
+	"settings": {}
+}
